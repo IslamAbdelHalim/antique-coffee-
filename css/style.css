@@ -264,6 +264,7 @@ ul li {
 }
 .about .image .text p {
   padding: 15px 0;
+  color: #777;
 }
 .about .image .button a {
   display: block;
